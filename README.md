@@ -23,7 +23,7 @@ const urloption = {
 mscog.api.call(urloption).then((html) => console.log(html)).catch((err) => console.log(err));
 ```
 
-Call image analysys API with image PATH.
+Call image analysis API with image PATH.
 ```
 const mscog = require('mscog');
 
