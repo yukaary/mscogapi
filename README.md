@@ -1,7 +1,7 @@
 mscogapi
 ===============================================================================
 
-Sample node.js client implementation for MicroSoft Cognitive Services.
+Sample node.js client implementation for Microsoft Cognitive Services.
 
 ## Install
 
