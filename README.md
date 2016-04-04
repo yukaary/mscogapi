@@ -3,6 +3,12 @@ mscogapi
 
 Sample node.js client implementation for MicroSoft Cognitive Services.
 
+## Install
+
+```
+$ npm install yukaary/mscogapi
+```
+
 ## Usage
 
 Call image analysis API with image URL.
